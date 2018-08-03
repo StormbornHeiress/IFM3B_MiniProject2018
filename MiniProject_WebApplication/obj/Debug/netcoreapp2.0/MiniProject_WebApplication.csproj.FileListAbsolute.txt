@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\MiniProject_WebApplication.deps.json
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\MiniProject_WebApplication.runtimeconfig.json
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\MiniProject_WebApplication.runtimeconfig.dev.json
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\MiniProject_WebApplication.dll
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\MiniProject_WebApplication.pdb
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\EPLDataSet.dll
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\bin\Debug\netcoreapp2.0\EPLDataSet.pdb
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.csproj.CopyComplete
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.dll
+C:\Users\user\source\repos\MiniProject_WebApplication\MiniProject_WebApplication\obj\Debug\netcoreapp2.0\MiniProject_WebApplication.pdb
