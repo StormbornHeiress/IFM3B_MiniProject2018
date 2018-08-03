@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\bin\Debug\netcoreapp2.0\EPLDataSet.deps.json
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\bin\Debug\netcoreapp2.0\EPLDataSet.runtimeconfig.json
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\bin\Debug\netcoreapp2.0\EPLDataSet.runtimeconfig.dev.json
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\bin\Debug\netcoreapp2.0\EPLDataSet.dll
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\bin\Debug\netcoreapp2.0\EPLDataSet.pdb
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\obj\Debug\netcoreapp2.0\EPLDataSet.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\obj\Debug\netcoreapp2.0\EPLDataSet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\obj\Debug\netcoreapp2.0\EPLDataSet.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\obj\Debug\netcoreapp2.0\EPLDataSet.AssemblyInfo.cs
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\obj\Debug\netcoreapp2.0\EPLDataSet.dll
+C:\Users\user\source\repos\MiniProject_WebApplication\EPLDataSet\obj\Debug\netcoreapp2.0\EPLDataSet.pdb
